@@ -1,4 +1,4 @@
 # JavaGo
 
-Go Game with server and client.
-Authors: MickeyJS and jakub-przywara
+Go Game with server and client. <br />
+Authors: MickeyJS & jakub-przywara
